@@ -1,0 +1,29 @@
+{
+  "configs": {
+    "hysteresis_core": {
+      "method": "hysteresis_core",
+      "low_threshold": 0.3,
+      "high_threshold": 0.8,
+      "seed_min_area": 1
+    },
+    "erosion_core": {
+      "method": "erosion_core",
+      "low_threshold": 0.3,
+      "erosion_iterations": 3,
+      "seed_min_area": 4
+    },
+    "probability_peak": {
+      "method": "probability_peak",
+      "low_threshold": 0.35,
+      "seed_threshold": 0.45,
+      "radius": 16
+    },
+    "thickness_probability_peak": {
+      "method": "thickness_probability_peak",
+      "low_threshold": 0.4,
+      "relative_peak": 0.6,
+      "radius": 16
+    }
+  },
+  "scope": "Main GCLIP posteriors; rules chosen using 537 real validation counts, 90-image screening; no test-count tuning"
+}
