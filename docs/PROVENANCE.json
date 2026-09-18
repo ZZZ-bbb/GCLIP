@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-14",
+  "files": [
+    {
+      "package_file": "controlled_source_clustering.py",
+      "research_source": "release/rice-panicle-source-models/controlled_source_clustering.py",
+      "source_sha256": "9b09607e6c33eba27b87d7fecb5340819748a7e271fed74c798154f3d1755eb3",
+      "packaged_sha256": "9b09607e6c33eba27b87d7fecb5340819748a7e271fed74c798154f3d1755eb3",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "fit_source.py",
+      "research_source": "release/rice-panicle-source-models/fit_source.py",
+      "source_sha256": "ac0543113974de3eb39d1da6bca45a9d264fb4491e0160630e2ae2f7eeb2294a",
+      "packaged_sha256": "0b7efe57e46bd97bbc9b7f7acabb9f70e09b3e105d6d4b3bab28d9bf78bda888",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "features.py",
+      "research_source": "release/rice-panicle-source-models/semantic_assignment.py",
+      "source_sha256": "e1f5237fefc447fbc3da311bde36a50f08d27f1339e645658425b9b4acac5edc",
+      "packaged_sha256": "e8034265061a5aabba5e1cca541b4348af7a31ab756681a703c85cf7269c1cc4",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "calibrate_clip.py",
+      "research_source": "q1_research_revision_d/configs/clip_semantic_alignment_20260908.json",
+      "source_sha256": "10a672105bc2db11f153aac68b577911be1d90cc41bcdb074be5401a9858303c",
+      "packaged_sha256": "8568d3fbd09407278a9cc1c1d592650d826371c8d5effea2b9a8f48115e1a361",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "metrics.py",
+      "research_source": "q1_research_revision_d/src/evaluation/metrics.py",
+      "source_sha256": "f71a972368e272aaa4298f29284c60f7163979c013b08fd93ff1671f5825fc43",
+      "packaged_sha256": "f71a972368e272aaa4298f29284c60f7163979c013b08fd93ff1671f5825fc43",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "markers.py",
+      "research_source": "scripts/133_evaluate_drpd_aerial_unsupervised_instance_methods.py",
+      "source_sha256": "bf5ca5983d342ce82f5d5c4d2d808a440c0fdc0e18e9480e3d3da26505f98b32",
+      "packaged_sha256": "9144a75508145e31dae65f4f41806f121296183eecd1e94079022516efa6ce88",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    },
+    {
+      "package_file": "models/gmm_diag_k3_seed42.npz",
+      "research_source": "release/rice-panicle-source-models/models/gmm_diag_k3_seed42.npz",
+      "source_sha256": "c849fd1fd8b045535878495e917cfdc62c6d875ddb0d9170b496fe1702e90e3e",
+      "packaged_sha256": "c849fd1fd8b045535878495e917cfdc62c6d875ddb0d9170b496fe1702e90e3e",
+      "scope": "portability refactor / retained numerical routine; no new algorithm claim"
+    }
+  ]
+}
